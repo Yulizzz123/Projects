@@ -49,7 +49,7 @@ First the data is analyzed to arrive at a basic understanding.
 Then hypthoses are built and tested.
 At last operations such as deleting columns and rows, as well as filtering are performed. 
 
-&nbsp
+\
 **[Organization]**
 
 The project adheres to the following file structure:
