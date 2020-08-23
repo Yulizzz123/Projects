@@ -15,7 +15,7 @@
 \
 **[Project Description]**
 
-This project seeks to demonstrate data wrangling skills in Python. The task is to perform data cleaning operations on a dataset on shark attacks. The main language utilized is Python with additional resources of Pandas and Regex. In the process, already some initial hypotheses about data corelations are tested.
+This project seeks to demonstrate data wrangling and analysis skills in Python. The task is to perform data cleaning and sorting operations on a dataset on shark attacks. The main language utilized is Python with additional resources of Pandas and Regex. In the process, hypotheses are tested and validated or dismissed.
 
 \
 **[Questions & Hypotheses]** 
@@ -24,7 +24,7 @@ My analysis aims to provide answers to the following questions:
 
 1. What data is unnecessary and can be ommited for better viewing purposes?
 2. How can different data types be aligned to be more easily managable? 
-3. What factors correlate with shark attacks? (initial hypotheses)
+3. What is the relation between certain factors and shark attacks? 
 
 \
 **[Dataset]**
@@ -65,7 +65,8 @@ The file "main.ipynb" is structured as below:
 
 1. Import all necessary data and tools
 2. Understand the dataset
-3. Data Wrangling
+3. Data wrangling and sorting
+4. Arriving at preliminary findings and conclusions
 
 \
 **[Repository]**
