@@ -2,14 +2,14 @@
 
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-\
+
 # Data_Wrangling_Shark_Attacks
 
 *Julia Zimpel*
 
 *Full-Time Data Analytics 2020-08, Campus Berlin & 23 Aug. 2020*
 
-\
+
 ## Content
 
 \
