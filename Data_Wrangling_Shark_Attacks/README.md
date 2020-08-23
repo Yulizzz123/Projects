@@ -14,7 +14,7 @@
 This project seeks to demonstrate data wrangling skills in Python. The task is to perform data cleaning operations on a dataset on shark attacks. The main language utilized is Python with additional resources of Pandas and Regex. In the process, already some initial hypotheses about data corelations are tested.
 
 
-**[Questions & Hypotheses]**
+**[Questions & Hypotheses]** /n
 My analysis aims to provide answers to the following questions:
 
 1. What data is unnecessary and can be ommited for better viewing purposes?
@@ -45,7 +45,8 @@ The project adheres to the following file structure:
 
 1. README
 2. shark_attacks.ipynb
-3. gitignore
+3. GSAF5.csv
+4. gitignore
 
 The file shark_attacks.ipynb is structured as below:
 
