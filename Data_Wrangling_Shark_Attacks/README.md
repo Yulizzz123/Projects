@@ -49,17 +49,17 @@ First the data is analyzed to arrive at a basic understanding.
 Then hypthoses are built and tested.
 At last operations such as deleting columns and rows, as well as filtering are performed. 
 
-
+&nbsp
 **[Organization]**
 
 The project adheres to the following file structure:
 
 1. README
-2. shark_attacks.ipynb
+2. main.ipynb
 3. GSAF5.csv
 4. gitignore
 
-The file shark_attacks.ipynb is structured as below:
+The file "main.ipynb" is structured as below:
 
 1. Import all necessary data and tools
 2. Understand the dataset
