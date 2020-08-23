@@ -4,18 +4,18 @@
 
 # Data_Wrangling_Shark_Attacks
 
-*[Julia Zimpel]*
+*Julia Zimpel*
 
-*[Full-Time Data Analytics 2020-08, Campus Berlin & 23 Aug. 2020]*
+*Full-Time Data Analytics 2020-08, Campus Berlin & 23 Aug. 2020*
 
 ## Content
 
-- [Project Description]
+**[Project Description]**
 
 This project seeks to demonstrate data wrangling skills in Python. The task is to perform data cleaning operations on a dataset on shark attacks. The main language utilized is Python with additional resources of Pandas and Regex. In the process, already some initial hypotheses about data corelations are tested.
 
 
-- [Questions & Hypotheses]
+**[Questions & Hypotheses]**
 
 My analysis aims to provide answers to the following questions:
 
@@ -23,7 +23,7 @@ My analysis aims to provide answers to the following questions:
 2. How can different data types be aligned to be more easily managable? 
 3. What factors correlate with shark attacks? (initial hypotheses)
 
-- [Dataset]
+**[Dataset]**
 
 The following dataset is used in the project:
 
@@ -32,20 +32,20 @@ Columns: 24
 Rows: 5992
 Entries: 143,808
 
-- [Database]
+**[Database]**
 
 The database consists of only one table:
 
 Source: kaggle.com
 Original Name: "sharkoriginal.csv". 
 
-- [Workflow]
+**[Workflow]**
 
 First the data is analyzed to arrive at a basic understanding.
 Then hypthoses are built and tested.
 At last operations such as deleting columns and rows, as well as filtering are performed. 
 
-- [Organization]
+**[Organization]**
 
 The project adheres to the following file structure:
 
@@ -60,6 +60,7 @@ The file shark_attacks.ipynb is structured as below:
 3. Data Wrangling
 
 
-[Repository](https://github.com/Yulizzz123/Projects/Data_Wrangling_Shark_Attacks)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+**[Repository]**
+
+*https://github.com/Yulizzz123/Projects/Data_Wrangling_Shark_Attacks*  
+
