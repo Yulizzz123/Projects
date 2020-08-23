@@ -65,8 +65,8 @@ The file "main.ipynb" is structured as below:
 
 1. Import all necessary data and tools
 2. Understand the dataset
-3. Data wrangling and sorting
-4. Arriving at preliminary findings and conclusions
+3. Data wrangling and findings
+
 
 \
 **[Repository]**
